@@ -205,8 +205,7 @@ const DiscoverTeams = ({ onNavigate }: DiscoverTeamsProps) => {
               className="btn-primary w-full flex items-center justify-center gap-2"
             >
               <UserPlus className="w-4 h-4" />
-              Request to Join
-            </button>
+              Request to invite          </button>
           </div>
         ))}
       </div>
